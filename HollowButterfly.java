@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Butterfly {
+public class HollowButterfly {
     public static Scanner s = new Scanner(System.in);
 
     public static void main(String[] args) {
